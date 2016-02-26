@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea
+target/*
+out/*
+servers/*
+RemoteSystemsTempFiles/*
+storm_feeds/target/*
+*.class
+*.iml
+storm_feeds/zookeeper.out
+storm_feeds/.classpath
+*.project
